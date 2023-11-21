@@ -1,0 +1,27 @@
+.btn-1{
+background-color: #B68C5A;
+color: white;
+font-size: 18px;
+font-weight: 600;
+}
+
+.description{
+    color: #E7E7E7;
+}
+.input{
+    width: 300px;
+height: 64px;
+
+border-radius: 8px;
+padding-left: 10px;
+
+}
+.btn-2{
+    background-color:#B68C5A ;
+    color: white;
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 600;
+}
