@@ -143,3 +143,19 @@
     color: #333;
     z-index: 10;
 }
+
+/* footer style */
+
+.footer-description{
+    color: #CFCFCF;
+}
+.icon{
+    color: white;
+    background-color: #B68C5A;
+    width: 80px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+  
+  
+}
